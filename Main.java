@@ -7,6 +7,7 @@ import java.util.Scanner;
  *
 */
 
+
 public class Main
 {
     static int menuCounter = 0;                            // We will display the menu to customer one by one, thats why we need counter for arrayList
