@@ -6,7 +6,8 @@ public class Bill
     private ArrayList<Object> orders;  // We will keep orders and their prices here
 
     // Constructor and Getter Setter part
-    public Bill(int no, int price) {
+    public Bill(int no, int price)
+    {
         this.no = no;
         this.orders = orders;
     }
