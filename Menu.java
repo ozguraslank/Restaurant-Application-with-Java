@@ -3,7 +3,8 @@ public class Menu
 {
     private String[][] theMenu;
 
-    public Menu(String[][] theMenu) {
+    public Menu(String[][] theMenu)
+    {
         this.theMenu = theMenu;
     }
 
