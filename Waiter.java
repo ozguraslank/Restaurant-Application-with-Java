@@ -6,6 +6,7 @@ public class Waiter extends Employee
     {
         super(name, surname);
     }
+    
     public int checkTable(Database database)                          // In this function, we will check for a empty table.
     {
         int tableId;                                                  // We will return this value, if there is no empty table, we will return 0
