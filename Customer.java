@@ -18,7 +18,8 @@ public class Customer
     }
 
     // Constructor and Getter Setter part
-    public Customer(String name, String surname, int customerTableId) {
+    public Customer(String name, String surname, int customerTableId)
+    {
         this.name = name;
         this.surname = surname;
         this.customerTableId = customerTableId;
