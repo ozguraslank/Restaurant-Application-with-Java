@@ -10,7 +10,8 @@ public class Database
                                                   // -> Because we will keep table objects in here.
 
     // Constructor and Getter Setter part
-    public Database(int tableAmount, int emptyTableAmount, int billNo, String[][] menu, ArrayList<Table> tables) {
+    public Database(int tableAmount, int emptyTableAmount, int billNo, String[][] menu, ArrayList<Table> tables)
+    {
         this.tableAmount = tableAmount;
         this.emptyTableAmount = emptyTableAmount;
         this.billNo = billNo;
