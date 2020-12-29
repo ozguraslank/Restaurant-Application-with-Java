@@ -3,6 +3,7 @@ public class Employee                               // Super class of Waiter and
     private String name;
     private String surname;
 
+    // Constructor and Getter Setter part
     public Employee(String name, String surname)
     {
         this.name = name;
