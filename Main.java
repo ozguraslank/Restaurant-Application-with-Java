@@ -2,6 +2,11 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ *@author OzgurAslan
+ *
+*/
+
 public class Main
 {
     static int menuCounter = 0;                            // We will display the menu to customer one by one, thats why we need counter for arrayList
