@@ -1,6 +1,7 @@
 public class Cashier extends Employee
 {
-    public Cashier(String name, String surname) {
+    public Cashier(String name, String surname)
+    {
         super(name, surname);
     }
 
