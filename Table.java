@@ -5,7 +5,8 @@ public class Table
     private boolean tableSituation; // Is it empty(true) or full(false)?
 
     // Constructor and Getter Setter part
-    public Table(int tableId, boolean tableSituation) {
+    public Table(int tableId, boolean tableSituation)
+    {
         this.tableId = tableId;
         this.tableSituation = tableSituation;
     }
