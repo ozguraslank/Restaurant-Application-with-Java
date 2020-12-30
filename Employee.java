@@ -1,5 +1,6 @@
 public class Employee                               // Super class of Waiter and Cashier
 {
+    
     private String name;
     private String surname;
 
